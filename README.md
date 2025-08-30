@@ -45,5 +45,3 @@ Two main approaches were applied:
 - **Clustering:** Identified distinct audience segments.  
 - **Topic Modeling:** Extracted key topics related to digital transformation.  
 - **Comparison:** Clustering provided clearer audience segmentation, while LDA highlighted broader discussion themes.  
-
-## 📎 Repository Structure  
